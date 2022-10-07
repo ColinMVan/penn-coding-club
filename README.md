@@ -9,3 +9,6 @@ to start up the server(localhost)
 and just open your browser and type localhost:5173
 
 Kennedy
+
+# The link to the figma file
+> https://www.figma.com/file/pxf2vONZRJxx3v7HXliXbh/Penn-coding-club-website?node-id=0%3A1
